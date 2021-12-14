@@ -1,0 +1,22 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "video manager",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "videos",
+    "disktop"
+  ],
+  "author": "Islam Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iahmed93/videos-manager/issues"
+  },
+  "homepage": "https://github.com/iahmed93/videos-manager#readme",
+  "devDependencies": {
+    "electron": "^16.0.4"
+  }
+}
